@@ -1,0 +1,113 @@
+﻿  Poker.cpp
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(10,17): error C3646: 'cardSuit': unknown override specifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(10,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(17,2): error C2061: syntax error: identifier 'string'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(17,2): error C2535: 'Card::Card(void)': member function already defined or declared
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(12): message : see declaration of 'Card::Card'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(22,16): error C3646: 'getSuit': unknown override specifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(22,16): error C2059: syntax error: '('
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(23,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(30,22): error C2061: syntax error: identifier 'string'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(15,3): error C2065: 'cardSuit': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(19,13): error C2065: 'val': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(20,3): error C2065: 'cardSuit': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(20,14): error C2065: 'suit': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(32,3): error C2065: 'cardSuit': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(32,14): error C2065: 'suit': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Card.h(43,3): error C2065: 'cardSuit': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(13,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(13,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(13,23): error C2238: unexpected token(s) preceding ';'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(24,6): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(24,1): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Card'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(24,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(27,6): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(27,1): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Card'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(27,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(30,6): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(30,1): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Card'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(30,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(33,6): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(33,1): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Card'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(33,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(41,10): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(45,10): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(49,3): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(53,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(54,18): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(54,36): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(54,3): error C3861: 'random_shuffle': identifier not found
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(60,4): error C2065: 'cout': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(60,12): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(60,54): error C2065: 'cardDeck': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Deck.h(60,86): error C2065: 'endl': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(9,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(9,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(34,29): error C2061: syntax error: identifier 'vector'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(20,3): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(25,10): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(29,31): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(31,4): error C2065: 'cout': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(31,12): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(31,50): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(31,78): error C2065: 'endl': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(36,3): error C2065: 'vector': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(36,1): error C2062: type 'int' unexpected
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(37,3): error C2065: 'vector': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(37,10): error C2065: 'string': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(37,18): error C2065: 'cardSuits': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(38,3): error C2065: 'vector': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(38,1): error C2062: type 'int' unexpected
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(50,23): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(52,4): error C2065: 'cardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(52,23): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(53,4): error C2065: 'sortedCardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(53,29): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(56,23): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(58,4): error C2065: 'cardSuits': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(58,24): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(61,8): error C2065: 'sortedCardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(61,32): error C2065: 'sortedCardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(61,3): error C3861: 'sort': identifier not found
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(107,25): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(109,10): error C2065: 'cardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(109,25): error C2065: 'cardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(137,24): error C2065: 'sortedCardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(139,9): error C2065: 'sortedCardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(139,30): error C2065: 'sortedCardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(154,24): error C2065: 'cardSuits': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(156,9): error C2065: 'cardSuits': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Hand.h(156,25): error C2065: 'cardSuits': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(17,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(17,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(17,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(117,30): error C2061: syntax error: identifier 'vector'
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(103,3): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(108,10): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(112,31): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(114,4): error C2065: 'cout': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(114,12): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(114,50): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(114,78): error C2065: 'endl': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(119,3): error C2065: 'vector': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(119,1): error C2062: type 'int' unexpected
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(120,3): error C2065: 'vector': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(120,10): error C2065: 'string': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(120,18): error C2065: 'cardSuits': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(121,3): error C2065: 'vector': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(121,1): error C2062: type 'int' unexpected
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(133,23): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(135,4): error C2065: 'cardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(135,23): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(136,4): error C2065: 'sortedCardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(136,29): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(139,23): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(141,4): error C2065: 'cardSuits': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(141,24): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(144,8): error C2065: 'sortedCardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(144,32): error C2065: 'sortedCardVals': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(144,3): error C3861: 'sort': identifier not found
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(149,24): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(151,25): error C2065: 'hand': undeclared identifier
+C:\Users\addic\OneDrive\Desktop\cs\CS 246\Poker\Player.h(151,1): fatal error C1003: error count exceeds 100; stopping compilation
